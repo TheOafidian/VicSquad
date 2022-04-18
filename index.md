@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+## Welcome to the VicSquad MC Server Page
 
-You can use the [editor on GitHub](https://github.com/TheOafidian/VicSquad/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Praise Vic! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Server URL
 
-### Markdown
+The server url is ```0.tcp.eu.ngrok.io:16712```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+It is a free tier ngrok tunnel leading to the server.   
+When the server crashes or reboots this url is refreshed and a new one needs to be used. 
 
-```markdown
-Syntax highlighted code block
+### Server Rules
 
-# Header 1
-## Header 2
-### Header 3
+1. Pay your respects to wasvic, our 12 year old great ruler
+2. Fun and cooperation are our priority
+3. No bullying, racism, sexism or any other form of discrimination is allowed. We're trying to build a better world.
+4. No griefing, have fun but not at the cost of other's fun.
+5. Ask for your ceremonial Smeagol head, if needed.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheOafidian/VicSquad/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### News
+- Modded server framework ready for transfer of server once vanilla is meh.
