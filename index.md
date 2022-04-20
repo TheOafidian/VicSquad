@@ -4,7 +4,7 @@ Praise Vic!
 
 ### Server URL
 
-The server url is ```0.tcp.eu.ngrok.io:16712```
+The server url is ```0.tcp.eu.ngrok.io:12505```
 
 It is a free tier ngrok tunnel leading to the server.   
 When the server crashes or reboots this url is refreshed and a new one needs to be used. 
@@ -18,4 +18,10 @@ When the server crashes or reboots this url is refreshed and a new one needs to 
 5. Ask for your ceremonial Smeagol head, if needed.
 
 ### News
+- Added [legendary flags](https://aikar.co/mcflags.html) to startup command to optimize server stability and performance
 - Modded server framework ready for transfer of server once vanilla is meh.
+
+- Work on the kart track is in progress
+![image](https://user-images.githubusercontent.com/75905128/164330615-7308f9df-8338-4353-981d-c0c277c998d6.png)
+
+
