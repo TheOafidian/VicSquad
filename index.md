@@ -17,10 +17,11 @@ When the server crashes or reboots this url is refreshed and a new one needs to 
 4. No griefing, have fun but not at the cost of other's fun.
 5. Ask for your ceremonial Smeagol head, if needed.
 
-### News
+### Geeky News
 - Added [legendary flags](https://aikar.co/mcflags.html) to startup command to optimize server stability and performance
 - Modded server framework ready for transfer of server once vanilla is meh.
 
+### Player News
 - Work on the kart track is in progress
 ![image](https://user-images.githubusercontent.com/75905128/164330615-7308f9df-8338-4353-981d-c0c277c998d6.png)
 
