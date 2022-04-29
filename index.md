@@ -23,6 +23,5 @@ When the server crashes or reboots this url is refreshed and a new one needs to 
 
 ### Player News
 - Work on the kart track is in progress
-![image](https://user-images.githubusercontent.com/75905128/164330615-7308f9df-8338-4353-981d-c0c277c998d6.png)
-
-Just testing the webhook at this point
+- Bikini bottom progress!
+- ![image](https://user-images.githubusercontent.com/75905128/166066966-c0097776-5b4f-4245-b902-0468e56624b1.png)
