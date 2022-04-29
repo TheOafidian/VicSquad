@@ -24,4 +24,4 @@ When the server crashes or reboots this url is refreshed and a new one needs to 
 ### Player News
 - Work on the kart track is in progress
 - Bikini bottom progress!
-- ![image](https://user-images.githubusercontent.com/75905128/166066966-c0097776-5b4f-4245-b902-0468e56624b1.png)
+![image](https://user-images.githubusercontent.com/75905128/166066966-c0097776-5b4f-4245-b902-0468e56624b1.png)
